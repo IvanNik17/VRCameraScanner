@@ -1,6 +1,9 @@
 # VRCameraScanner
 A proof of concept Unity project for using HMD cameras for capturing images from the environment and extracting information. A tool for easily digitalizing real life context for VR presentations/lectures. A user can capture images of documents, black/white boards, etc. from real life using the HMD cameras on the HTC Vive and Valve Index. Then either automatically or manually select the corners of the images and use these points to unwarp the images, as a document scanner. The images are then transformed to a texture and can be displayed on a VR blackboard.
 
+![Visual](images/planeCaptureImage_1.PNG)
+
+![Visual](images/planeCaptureImage_2.PNG)
 
 The project is part of the paper - [Testing VR headset cameras for capturing written content](https://dl.acm.org/doi/abs/10.1145/3377290.3377315)
 
